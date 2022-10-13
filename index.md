@@ -2,6 +2,6 @@
 
 Set of my wonderful recipes.
 
-- pizas (TODO)
+- [base] (./pizzas/base.md)
 - sauses (TODO)
 - reads (TODO)
